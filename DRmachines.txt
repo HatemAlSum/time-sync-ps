@@ -1,0 +1,4 @@
+WebServerDR01.corp.contoso.com.eg
+WebServerDR02.corp.contoso.com.eg
+DBServerDR01.corp.contoso.com.eg
+DBServerDR02.corp.contoso.com.eg

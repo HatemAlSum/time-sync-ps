@@ -1,0 +1,1 @@
+invoke-command -computername (get-content machines.txt) -FilePath .\synccommandV.ps1

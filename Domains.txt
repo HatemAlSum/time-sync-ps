@@ -1,0 +1,4 @@
+Domain01.corp.contoso.com.eg
+Domain02.corp.contoso.com.eg
+Domain03.corp.contoso.com.eg
+Domain04.corp.contoso.com.eg

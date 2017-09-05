@@ -1,0 +1,1 @@
+invoke-command -computername (get-content UpDomains.txt) -FilePath .\synccommand.ps1
